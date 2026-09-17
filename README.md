@@ -26,7 +26,7 @@ I enjoy building practical technology solutions, troubleshooting IT challenges, 
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🌐 Personal Portfolio Website
 
@@ -49,11 +49,11 @@ I'm interested in opportunities involving:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* 🌐 **Portfolio:** https://jemosoptuiya.github.io/Jemosoptuiya_portfolio/
-* 💼 **LinkedIn:** www.linkedin.com/in/jemosop-tuiya-807b73258
-* 📧 **Email:** [jemosoptuiya@gmail.com](mailto:jemosoptuiya@gmail.com)
+*  **Portfolio:** https://jemosoptuiya.github.io/Jemosoptuiya_portfolio/
+*  **LinkedIn:** www.linkedin.com/in/jemosop-tuiya-807b73258
+*  **Email:** [jemosoptuiya@gmail.com](mailto:jemosoptuiya@gmail.com)
 
 ---
 
