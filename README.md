@@ -52,7 +52,7 @@ I'm interested in opportunities involving:
 ## 📫 Connect With Me
 
 * 🌐 **Portfolio:** https://jemosoptuiya.github.io/Jemosoptuiya_portfolio/
-* 💼 **LinkedIn:** Add your LinkedIn profile link here
+* 💼 **LinkedIn:** www.linkedin.com/in/jemosop-tuiya-807b73258
 * 📧 **Email:** [jemosoptuiya@gmail.com](mailto:jemosoptuiya@gmail.com)
 
 ---
